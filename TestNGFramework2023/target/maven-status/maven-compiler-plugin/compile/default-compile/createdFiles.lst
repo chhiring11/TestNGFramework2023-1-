@@ -1,0 +1,8 @@
+pageobjects\HomePage.class
+utils\GenericMethods.class
+testcases\BaseTest.class
+utils\BrowserFactory.class
+pageobjects\AddToCartPage.class
+pageobjects\ShippingAddressPage.class
+pageobjects\ProductDetailsPage.class
+pageobjects\CheckOutPage.class
